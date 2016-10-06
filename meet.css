@@ -1,0 +1,129 @@
+a{
+	color:#800000;
+}
+h1{
+	color:#800000;
+}
+h2{
+	color:#800000;
+	letter-spacing:2px;
+}
+body{
+	background-color:#ffffe6;
+	color:#800000;
+	font-family:Phosphate; 
+}
+p{
+	font-family:"Times New Roman";
+	color:#000000;
+}
+.table{
+	width:500px;
+	border:5px groove maroon;
+	padding:10px;
+	margin:10px;
+}
+.table:hover{
+	background-color:#c6c6ec;
+}
+td{
+	border-right: 2px groove maroon;
+}
+th{
+	border-right: 2px groove maroon;
+}
+.sidebar{
+	border:7px groove maroon;
+	padding:0px;
+	margin:0px;
+	position:fixed;
+	top:0;
+	left:0;
+}
+.Clinton{
+	background-color:#b3d9ff;
+	position:absolute;
+	top:530px;
+	right:460px;
+	width:500px;
+	padding:2px;
+	border:7px groove maroon;
+	margin:0px;
+	color:#000000;
+	box-shadow:15px 15px 3px 2px #ff9999;
+}
+li{
+	text-align:left;
+	list-style:square;
+}
+.Trump{
+	background-color:#ff4d4d;
+	position:absolute;
+	top:690px;
+	right:430px;
+	width:500px;
+	padding:2px;
+	border:7px groove maroon;
+	margin:0px;
+	color:#000000;
+	box-shadow:15px 15px 3px 2px #ff9999;
+}
+.Stein{
+	background-color:#85e085;
+	position:absolute;
+	top:850px;
+	right:400px;
+	width:500px;
+	padding:2px;
+	border:7px groove maroon;
+	margin:0px;
+	color:#000000;
+	box-shadow:15px 15px 3px 2px #ff9999;
+}
+.Johnson{
+	background-color:#ffcc80;
+	position:absolute;
+	top:1010px;
+	right:370px;
+	width:500px;
+	padding:2px;
+	border:7px groove maroon;
+	margin:0px;
+	color:#000000;
+	box-shadow:15px 15px 3px 2px #ff9999;
+}
+#spruce{
+	position:absolute;
+	right:40px;
+	top:650px;
+	border:7px groove maroon;
+	height:290px;
+	width:215px;
+	padding:4px;
+}
+#table{
+	position:absolute;
+	top:1230px;
+	left:300px;
+	letter-spacing:2px;
+}
+img{
+	position:absolute;
+	right:280px;
+	width:620px;
+	border-radius:45%;
+}
+th:hover{
+	background-color:#ffcc80;;
+}
+td:hover{
+	background-color:#c6c6ec;
+}
+
+
+
+
+
+
+
+

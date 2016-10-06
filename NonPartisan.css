@@ -1,0 +1,101 @@
+a{
+	color:maroon;
+}
+h1{
+	color:maroon;
+}
+h2{
+	color:maroon;
+	letter-spacing:2px;
+}
+body{
+	background-color:#ffffe6;
+	color:maroon;
+	font-family:Phosphate; 
+}
+p{
+	font-family:"Times New Roman";
+	color:#000000;
+}
+li{
+	text-align:left;
+}
+.table{
+	width:500px;
+	border:5px groove maroon;
+	padding:10px;
+	margin:10px;
+}
+.table:hover{
+	background-color:#c6c6ec;
+}
+td{
+	border-right: 2px groove maroon;
+}
+th{
+	border-right: 2px groove maroon;
+}
+.sidebar{
+	border:7px groove maroon;
+	padding:0px;
+	margin:0px;
+	position:fixed;
+	top:0;
+	left:0;
+}
+.Clinton{
+	background-color:#b3d9ff;
+	width:450px;
+	padding:0px;
+	border:3px groove black;
+	margin:0px;
+	color:#000000;
+	box-shadow:15px 15px 0px #ff9999;
+}
+#top{
+	background-color:#ffcc80;
+	height:230px;
+	width:600px;
+	padding:2px;
+	border-radius:20%;
+}
+#stat{
+	float:right;
+	border:10px groove black;
+}
+#blue{
+	background-color:#b3d9ff;
+	width:300px;
+	padding:2px;
+	border:5px groove black;
+	margin:0px;
+	color:#000000;
+	position:absolute;
+	right:20px;
+	top:260px;
+}
+#graph{
+	height:170;
+	width:300;
+	padding:2px;
+	border:5px groove black;
+	margin:0px;
+	position:absolute;
+	right:20px;
+	top:50px;
+}
+th:hover{
+	background-color:#ffcc80;;
+}
+td:hover{
+	background-color:#c6c6ec;
+}
+footer{
+	font-size:12px
+}
+
+
+
+
+
+

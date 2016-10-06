@@ -1,0 +1,109 @@
+a{
+	color:#000000;
+}
+body{
+	background-color:#ff9999;
+	color:#000000;
+	font-family:Phosphate;
+}
+.table{
+	background-color:#c6c6ec;
+	width:500px;
+	border:7px groove black;
+	padding:10px;
+	margin:10px;
+}
+td{
+	border-right:2px groove black;
+}
+.sidebar{
+	background-color:#c6c6ec;
+	border:7px groove gray;
+	padding:0px;
+	margin:0px;
+	position:absolute;
+	top:0;
+	left:0;
+}
+p{
+	letter-spacing:2px;
+}
+#primary{
+	background-color:#ffcc80;
+	width:500px;
+	padding:2px;
+	border:5px solid black;
+	margin:2px;
+	color:#000000;
+}
+#plat{
+	background-color:#b3d9ff;
+	width:500px;
+	padding:2px;
+	border:5px solid black;
+	margin:2px;
+	color:#000000;
+}
+#exp{
+	background-color:#85e085;
+	width:500px;
+	padding:2px;
+	border:5px solid black;
+	margin:2px;
+	color:#000000;
+}
+#Yeet{
+	background-color:#ffffe6;
+	width:500px;
+	padding:2px;
+	border:5px solid black;
+	margin:2px;
+	color:#000000;
+}
+.more{
+	background-color:#ffcc80;
+	display:none; 
+	width:400px;
+	padding:2px;
+	margin:2px;
+	border:5px solid black;
+	color:#000000;
+}
+footer{
+	font-size:10px
+}
+#graph{
+	position:absolute;
+	top:30px;
+	right:30px;
+	width:200px;
+	height:150px;
+	border:10px ridge black;
+	box-shadow:-15px 10px 3px #404040;
+}
+#face{
+	position:absolute;
+	top:190px;
+	right:30px;
+	width:200px;
+	height:150px;
+	border:10px ridge black;
+	box-shadow:-15px 10px 3px #404040;
+}
+img:hover{
+	position:relative;
+	right:70px;
+	bottom:10%;
+	z-index:1;
+	height:215px;
+	width:280px;
+}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
